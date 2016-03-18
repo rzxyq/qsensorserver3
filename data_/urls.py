@@ -16,4 +16,7 @@ urlpatterns = [
         url(r'^frequency_post_graph', frequency_post_graph), # To receive graph POSTs
         url(r'^mean_post_graph', mean_post_graph), # To receive graph POSTs
 
+        url(r'^mean_post_graph', mean_post_graph), # To receive graph POSTs
+        
+
 ]
